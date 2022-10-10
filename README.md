@@ -1,0 +1,2 @@
+# JavascriptEjercicios
+Ejercicios varios
